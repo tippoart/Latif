@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
 
   <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="creative coding" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="tech loading" />
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
 </p>
 </p>
