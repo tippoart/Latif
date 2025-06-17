@@ -1,8 +1,31 @@
 <h1 align="center">Hi, I'm Latif Ardiansyah 👋</h1>
-<h3 align="center">💻 Web Developer | 🎨 UI Designer </h3>
+<h3 align="center">💻 Web Developer | 🎨 UI Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+to+build+cool+things+💻;Let's+collaborate+and+learn+together!&center=true&width=500" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Currently building: `AI-powered TikTok Comment Analyzer`, `FixBan.com` 🛞, and e-Government solutions.
+- 🌱 Currently learning: **LangChain**, **Astro**, **Laravel 11**
+- 💬 Ask me about: `Web Development`, `AI for social impact`, or `UX for better conversions`.
+- 👯 Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
+- 📫 Reach me at: `latifardiansyah.id@gmail.com`
+- ⚡ Fun fact: I can redesign your website in 2 hours and make it twice as effective! 😎
+
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
 </p>
 
 <p align="center">
@@ -11,34 +34,11 @@
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently building: `AI-powered TikTok Comment Analyzer`, `FixBan.com` 🛞, and e-Government solutions.
-- 🌱 Learning: **LangChain, Astro, Laravel 11**
-- 💬 Ask me about: `Web Dev`, `AI for social impact`, or `UX for conversions`.
-- 👯 Let's collaborate on: Open-source, ML for good, web platforms.
-- 📫 Reach me: `latifardiansyah.id@gmail.com`
-- ⚡ Fun fact: I can redesign your website in 2 hours and make it 2x better 😎
-
----
-
-### 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
-
-  <p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
-</p>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tipposyah&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipposyah&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tippoart&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tippoart&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -46,12 +46,13 @@
 ### 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tipposyah&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tippoart&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tipposyah&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tippoart&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### 📷 Let's Connect
@@ -65,4 +66,3 @@
 ---
 
 > 🧠 *"Code. Design. Automate. Repeat."* — _Latif_
-
