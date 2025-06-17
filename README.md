@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Latif Ardiansyah 👋</h1>
-<h3 align="center">💻 Web Developer | 🎨 UI/UX Designer | 🤖 Machine Learning Enthusiast</h3>
+<h3 align="center">💻 Web Developer | 🎨 UI Designer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+to+build+cool+things+💻;Let's+collaborate+and+learn+together!&center=true&width=500" />
@@ -26,6 +26,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
+
+  <p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="creative coding" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="tech loading" />
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
+</p>
 </p>
 
 ---
@@ -48,17 +54,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tipposyah&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🎬 Bonus GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="creative coding" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="tech loading" />
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
-</p>
-
 ---
 
 ### 📷 Let's Connect
