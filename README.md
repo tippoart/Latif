@@ -13,11 +13,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: `AI-powered TikTok Comment Analyzer`, `FixBan.com` 🛞, and e-Government solutions.
-- 🌱 Currently learning: **LangChain**, **Astro**, **Laravel 11**
-- 💬 Ask me about: `Web Development`, `AI for social impact`, or `UX for better conversions`.
+- 🔭 Currently building: `TikTok Comment Analyzer`, `FixBan.com`.
+- 🌱 Currently learning: **Kotlin**, **react**, **Laravel 11**
+- 💬 Ask me about: `Web Development` and `Ui design`.
 - 👯 Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
-- 📫 Reach me at: `latifardiansyah.id@gmail.com`
+- 📫 Reach me at: `latifardiansyah982@gmail.com`
 - ⚡ Fun fact: I can redesign your website in 2 hours and make it twice as effective! 😎
 
 ---
@@ -25,7 +25,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,react,python,mysql,streamlit,figma,bootstrap,git" />
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@tipposyah" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="mailto:latifardiansyah.id@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/latifardiansyah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:latifardiansyah982@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/latif-ardiansyah-608ab1273/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
