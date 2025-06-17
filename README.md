@@ -20,23 +20,16 @@
 - 📫 Reach me: `latifardiansyah.id@gmail.com`
 - ⚡ Fun fact: I can redesign your website in 2 hours and make it 2x better 😎
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
+</p>
 ---
 
 ### 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
-</p>
 ---
 ### 📊 GitHub Stats
-<p align="center">
- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="tech loading" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tipposyah&show_icons=true&theme=tokyonight&count_private=true" height="170" />
