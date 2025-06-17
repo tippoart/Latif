@@ -14,15 +14,15 @@
 ### 🧠 About Me
 
 - 🔭 Currently building: `AI-powered TikTok Comment Analyzer`, `FixBan.com` 🛞, and e-Government solutions.
-- 🌱 Learning: **LangChain**, **Astro**, **Laravel 11**
-- 💬 Ask me about: `Web Development`, `AI for social impact`, or `UX for conversions`
-- 👯 Let's collaborate on: Open-source, ML for good, Web platforms
-- 📫 Reach me: **latifardiansyah.id@gmail.com**
+- 🌱 Learning: **LangChain, Astro, Laravel 11**
+- 💬 Ask me about: `Web Dev`, `AI for social impact`, or `UX for conversions`.
+- 👯 Let's collaborate on: Open-source, ML for good, web platforms.
+- 📫 Reach me: `latifardiansyah.id@gmail.com`
 - ⚡ Fun fact: I can redesign your website in 2 hours and make it 2x better 😎
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,python,mysql,streamlit,figma,bootstrap,git" />
@@ -51,10 +51,12 @@
 
 ---
 
-### 🎬 Extras
+### 🎬 Bonus GIFs
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="creative coding" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="tech loading" />
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="200" alt="build thinking" />
 </p>
 
 ---
@@ -70,3 +72,4 @@
 ---
 
 > 🧠 *"Code. Design. Automate. Repeat."* — _Latif_
+
