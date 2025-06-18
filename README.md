@@ -14,8 +14,8 @@
 ### 🧠 About Me
 
 - 🔭 Currently building: `TikTok Comment Analyzer`, `FixBan.com`.
-- 🌱 Currently learning: **Kotlin**, **react**, **Laravel 11**
-- 💬 Ask me about: `Web Development` and `Ui design`.
+- 🌱 Currently learning: **Kotlin**, **React**, **Laravel 11**
+- 💬 Ask me about: `Web Development` and `UI Design`.
 - 👯 Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
 - 📫 Reach me at: `latifardiansyah982@gmail.com`
 - ⚡ Fun fact: I can redesign your website in 2 hours and make it twice as effective! 😎
@@ -46,11 +46,11 @@
 ### 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tippoart&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=tippoart&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tippoart&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tippoart&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
